@@ -2,9 +2,10 @@
 - 👀 I’m interested in AI and Machine learning
 - 🌱 I’m currently learning Advanced Fine tuning Techniques for LLMs
 - 💞️ I’m looking to collaborate on Development in AI tools
-- 📫 How to reach me: Discord, `swetadoug`
+- 📫 You can reach me on Discord, `swetadoug` is my username 
 - 🛠 Maintainer of Mindcraft-CE
 - Creator of the [Andy API](https://mindcraft.riqvip.dev/andy-pool)
+- 🐧 I use Linux Mint
 - ⚡ Fun fact: I play the bassoon and made the first fine-tuned LLM for playing Minecraft via Mindcraft
 
   [Huggingface Page](https://huggingface.co/Sweaterdog)
