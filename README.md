@@ -7,6 +7,7 @@
 - Creator of the [Andy API](https://mindcraft.riqvip.dev/andy-pool)
 - 🐧 I use Linux Mint
 - ⚡ Fun fact: I play the bassoon and made the first fine-tuned LLM for playing Minecraft via Mindcraft
+- Currently working on: Charles Web UI and AI Model
 
   [Huggingface Page](https://huggingface.co/Sweaterdog)
   
