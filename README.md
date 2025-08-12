@@ -15,7 +15,7 @@
 
   [Mindcraft-CE Discord Server](https://discord.gg/DNnBQvCtwr)
 
-  [Mindcraft-CE Website]([https://mindcraft.riqvip.dev/](https://mindcraft-ce.com/))
+  [Mindcraft-CE Website](https://mindcraft-ce.com/)
  
   [Youtube](https://youtube.com/@sweaterdog5475?si=bPo11cLvoR1sYEXp)
 <!---
