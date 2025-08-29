@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning Advanced Fine tuning Techniques for LLMs
 - 💞️ I’m looking to collaborate on Development in AI tools
 - 📫 You can reach me on Discord, `swetadoug` is my username 
-- 🛠 Maintainer of Mindcraft-CE
+- 🛠 Maintainer of Mindcraft / Mindcraft-CE
 - Creator of the [Andy API](https://andy.mindcraft-ce.com/)
 - 🐧 I use Linux Mint
 - ⚡ Fun fact: I play the bassoon and made the first fine-tuned LLM for playing Minecraft via Mindcraft
-- Currently working on: Charles Web UI and AI Model
+- Currently working on: GRaPE (General Reasoning Agent for Project Exploration.)
 
   [Huggingface Page](https://huggingface.co/Sweaterdog)
   
