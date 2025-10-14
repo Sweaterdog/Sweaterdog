@@ -13,7 +13,7 @@
   
   [Ollama Page](https://ollama.com/Sweaterdog)
 
-  [Mindcraft-CE Discord Server](https://discord.gg/DNnBQvCtwr)
+  [Mindcraft-CE Discord Server](https://discord.gg/CAwpwnaNMd)
 
   [Mindcraft-CE Website](https://mindcraft-ce.com/)
  
