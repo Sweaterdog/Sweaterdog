@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sweaterdog
 - 👀 I’m interested in AI and Machine learning
 - 🌱 I’m currently learning Advanced Fine tuning Techniques for LLMs
-- 💞️ I’m looking to collaborate on Development in AI tools
+- 💞️ I’m not looking to collaborate at the moment
 - 📫 You can reach me on Discord, `swetadoug` is my username 
 - 🛠 Maintainer of Mindcraft / Mindcraft-CE
 - Creator of the [Andy API](https://andy.mindcraft-ce.com/)
