@@ -7,7 +7,7 @@
 - Creator of the [Andy API](https://andy.mindcraft-ce.com/)
 - 🐧 I use Linux Mint
 - ⚡ Fun fact: I play the bassoon and made the first fine-tuned LLM for playing Minecraft via Mindcraft
-- Currently working on: GRaPE (General Reasoning Agent for Project Exploration.)
+- Currently working on: GRaPE Chat for GRaPE 2
 
   [Huggingface Page](https://huggingface.co/Sweaterdog)
   
@@ -16,6 +16,8 @@
   [Mindcraft-CE Discord Server](https://discord.gg/CAwpwnaNMd)
 
   [Mindcraft-CE Website](https://mindcraft-ce.com/)
+
+  [GRaPE Chat](https://grape.skinnertopia.com/) - *In dev*
  
   [Youtube](https://youtube.com/@sweaterdog5475?si=bPo11cLvoR1sYEXp)
 <!---
